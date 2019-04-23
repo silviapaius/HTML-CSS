@@ -34,9 +34,7 @@ get_header(); ?>
 //<!-- Ctrl shift D copiaza randul -->
 //CTRL shhift sageata sus/jos - iti duce linia de cod mai sus/jos
 
-//tema de pus pe Git ce am facut azi
 
-//pt GIT
 				
 				// End the loop.
 			endwhile;
